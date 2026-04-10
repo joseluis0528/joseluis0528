@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am currently attending Waubonsee Community College.
+# I am currently attending Waubonsee Community College.
 ## The first piece of technology I ever owned was a gameboy color.
 ## My hometown is Aurora, IL.
 ## My field of study is Computer Science and Cybersecurity. I am also interested in IP Law.
