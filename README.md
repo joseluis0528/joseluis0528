@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning Python and C++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: joseluis0528@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+I am currently attending Waubonsee Community College.
+The first piece of technology I ever owned was a gameboy color.
+My hometown is Aurora, IL.
+My field of study is Computer Science but I am also interested in Cybersecurity.
+Let's get in touch: joseluis0528@gmail.com
+
+Hi, my name is Jose and I am a Computer Science student at Waubonsee Community College.
+I love traveling, and learning everything about the latest tech. 
 -->
