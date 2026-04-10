@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I am currently attending Waubonsee Community College. 
+I am currently attending Waubonsee Community College. 
 
 The first piece of technology I ever owned was a gameboy color. 
 
